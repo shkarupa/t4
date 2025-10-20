@@ -1,1 +1,3 @@
 # b
+
+Some b file.
